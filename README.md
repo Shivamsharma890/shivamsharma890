@@ -1,27 +1,216 @@
-<h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
-<h3 align="center">A passionate ( frontend + backend + AI )developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamsharma890&label=Profile%20views&color=0e75b6&style=flat" alt="shivamsharma890" /> </p>
+# Hi 👋, I'm Shivam Sharma
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamsharma890" alt="shivamsharma890" /></a> </p>
+### Full-Stack Python Developer | AI Integration | Problem Solver
 
-- 🔭 I’m currently working on **Interxora.ai**
+Building production-oriented web applications and AI-powered systems
+with Python, FastAPI, React, PostgreSQL and modern LLM technologies.
 
-- 🌱 I’m currently learning **Fastapi, django, LLM, RAG, Langchain or more...**
-
-- 💬 Ask me about **Anything in my stack...**
-
-- 📫 How to reach me **shivluupadhyay@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamsharma890&show_icons=true&locale=en&layout=compact" alt="shivamsharma890" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamsharma890&show_icons=true&locale=en" alt="shivamsharma890" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsharma890&" alt="shivamsharma890" /></p>
+- 🎓 B.Tech CSE student at MITS Gwalior
+- 🐍 Focused on Python backend development with FastAPI
+- 🤖 Building AI-powered applications using LLM APIs, RAG and AI agents
+- ⚛️ Experienced with React.js and Tailwind CSS
+- 🗄️ Working with PostgreSQL, MySQL and SQL
+- 🧠 Strong interest in DSA, backend engineering and system design
+- 🚀 Interested in building scalable, real-world software products
+- 💼 Preparing for software engineering and AI-focused internships
+
+---
+
+## 🔭 Currently Working On
+
+### 🤖 AI Interview Coach Platform
+
+An AI-powered interview preparation platform designed to simulate
+real interview experiences and provide intelligent candidate feedback.
+
+**Core Technologies**
+
+- React.js
+- Tailwind CSS
+- FastAPI
+- PostgreSQL
+- LLM APIs
+- AI-powered evaluation
+- REST APIs
+- Authentication
+- AI interview workflows
+
+---
+
+## 🤝 Looking to Collaborate On
+
+- AI-powered full-stack applications
+- RAG-based systems
+- AI Agent workflows
+- Developer productivity tools
+- Python/FastAPI projects
+- Open-source projects
+- Real-world software engineering problems
+
+---
+
+## 🧩 Looking for Help With
+
+- Production-grade AI architecture
+- RAG optimization
+- AI agent design
+- Scalable FastAPI systems
+- System design
+- LLM application architecture
+- Cloud deployment and infrastructure
+
+---
+
+## 🌱 Currently Learning
+
+- Large Language Model Applications
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- AI Agents
+- Prompt Engineering
+- Advanced FastAPI
+- System Design
+- Docker
+- AWS / Cloud Deployment
+- Production AI Architecture
+
+---
+
+## 💬 Ask Me About
+
+`Python` `FastAPI` `React` `Tailwind CSS`
+`PostgreSQL` `MySQL` `REST APIs`
+`AI Integration` `RAG` `LLMs`
+`DSA` `Backend Development`
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,sql" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### AI / Generative AI
+
+<p>
+
+`LLM APIs` • `RAG` • `LangChain` • `AI Agents`
+`Prompt Engineering` • `AI Workflows`
+
+</p>
+
+### Tools & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,railway" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Interview Coach
+
+AI-powered interview preparation and evaluation platform.
+
+**Stack:** React • Tailwind CSS • FastAPI • PostgreSQL • LLM APIs
+
+---
+
+### 💰 Money-Fintrack
+
+Full-stack banking and financial management application with
+authentication, account management, transactions and payment integration.
+
+**Stack:** React • Python • Flask • MySQL • Razorpay
+
+---
+
+### 🌐 Verbuvate
+
+Smart multilingual translation application with a modern React interface
+and external translation API integration.
+
+**Stack:** React • Tailwind CSS • JavaScript • REST API
+
+---
+
+### 🌤️ WeatherNow
+
+Responsive weather application providing real-time weather information
+through an external weather API.
+
+**Stack:** React • Tailwind CSS • OpenWeather API
+
+---
+
+## 🧠 DSA & Problem Solving
+
+- 🔥 Completed the **Striver SDE Sheet 45-Day Challenge**
+- 💻 Solved **190+ DSA problems** across coding platforms
+- 🧩 Practicing algorithms, data structures and problem solving
+- 🎯 Preparing for software engineering technical interviews
+
+---
+
+## 📈 My Current Engineering Focus
+
+```text
+                    SOFTWARE ENGINEERING
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+        FULL STACK                    AI ENGINEERING
+             │                           │
+      ┌──────┴──────┐             ┌──────┴──────┐
+      │             │             │             │
+   React         FastAPI        LLMs          RAG
+      │             │             │             │
+   Tailwind      PostgreSQL     Agents      AI APIs
+      │             │             │             │
+      └─────────────┴─────────────┴─────────────┘
+                           │
+                     SYSTEM DESIGN
+                           │
+                      CLOUD / DEVOPS
