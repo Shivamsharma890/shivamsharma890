@@ -55,8 +55,8 @@ Web Developer Intern · ApexPlanet Software<br/>
 <br/>
 
 **🏁 Milestone**<br/>
-✅ Completed Striver SDE Sheet 45-Day Challenge
-
+✅ Completed Striver SDE Sheet 45-Day Challenge<br/>
+✅ 300+ Questions on Leetcode
 </td>
   </tr>
 </table>
