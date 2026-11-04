@@ -248,11 +248,11 @@ notes:
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivamsharma890/Shivamsharma890/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivamsharma890/Shivamsharma890/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Shivamsharma890/Shivamsharma890/output/github-snake-dark.svg" width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/Shivamsharma890/Shivamsharma890/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivamsharma890&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="100%" alt="Activity graph" />
 
 </div>
 
