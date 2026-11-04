@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shivam%20Sharma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Full-Stack%20%C2%B7%20FastAPI%20%C2%B7%20React&descSize=18&descAlignY=60" width="100%" alt="Shivam Sharma banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shivam%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Full-Stack%20%C2%B7%20FastAPI%20%C2%B7%20React&descSize=18&descAlignY=60" width="100%" alt="Shivam Sharma banner"/>
 
 <a href="https://github.com/Shivamsharma890">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9A5&center=true&vCenter=true&width=700&lines=Building+AI-powered+full-stack+products;Multi-Agent+Systems+%C2%B7+RAG+%C2%B7+LLM+Apps;FastAPI+%2B+React+%2B+PostgreSQL+%2B+pgvector;B.Tech+CSE+%40+MITS+Gwalior" alt="Typing SVG" />
@@ -93,17 +93,13 @@ Web Developer Intern · ApexPlanet Software<br/>
   <tr>
     <td><b>Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&perline=10" />
-      <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40" alt="streamlit" />
+      <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&perline=10" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" height="40" align="top" alt="streamlit" />
     </td>
   </tr>
   <tr>
     <td><b>Backend & Auth</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=fastapi,flask&perline=10" />
-      <img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" height="40" alt="sqlalchemy" />
-      <img src="https://cdn.simpleicons.org/jsonwebtokens/FB015B" height="40" alt="jsonwebtokens" />
-      <img src="https://cdn.simpleicons.org/google/4285F4" height="40" alt="google" />
+      <img src="https://skillicons.dev/icons?i=fastapi,flask&perline=10" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" width="40" height="40" align="top" alt="sqlalchemy" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/jsonwebtokens/FB015B" width="40" height="40" align="top" alt="jsonwebtokens" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/google/4285F4" width="40" height="40" align="top" alt="google" />
       <br/><br/>
       <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" height="32" alt="REST APIs" />
     </td>
@@ -111,8 +107,7 @@ Web Developer Intern · ApexPlanet Software<br/>
   <tr>
     <td><b>Agentic / GenAI</b></td>
     <td>
-      <img src="https://cdn.simpleicons.org/langchain/1C9C8C" height="40" alt="langchain" />
-      <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="huggingface" />
+      <img src="https://cdn.simpleicons.org/langchain/1C9C8C" width="40" height="40" align="top" alt="langchain" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="40" align="top" alt="huggingface" />
       <br/><br/>
       <img src="https://img.shields.io/badge/LangGraph-0F766E?style=for-the-badge" height="32" alt="LangGraph" />
       <img src="https://img.shields.io/badge/Multi--Agent_Systems-6E40C9?style=for-the-badge" height="32" alt="Multi-Agent Systems" />
@@ -133,7 +128,8 @@ Web Developer Intern · ApexPlanet Software<br/>
     <td><b>Tools & Cloud</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=git,github,vercel,supabase,pytest&perline=10" />
-      <img src="https://cdn.simpleicons.org/razorpay/3395FF" height="40" alt="razorpay" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" height="32" alt="Razorpay" />
     </td>
   </tr>
 </table>
@@ -250,6 +246,13 @@ notes:
 
 <img src="https://streak-stats.demolab.com/?user=Shivamsharma890&theme=tokyonight&hide_border=true" />
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivamsharma890/Shivamsharma890/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivamsharma890/Shivamsharma890/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Shivamsharma890/Shivamsharma890/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
