@@ -105,7 +105,7 @@ Web Developer Intern · ApexPlanet Software<br/>
       <img src="https://cdn.simpleicons.org/jsonwebtokens/FB015B" height="40" alt="jsonwebtokens" />
       <img src="https://cdn.simpleicons.org/google/4285F4" height="40" alt="google" />
       <br/><br/>
-      <kbd>&nbsp;REST APIs&nbsp;</kbd>
+      <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" height="32" alt="REST APIs" />
     </td>
   </tr>
   <tr>
@@ -114,7 +114,11 @@ Web Developer Intern · ApexPlanet Software<br/>
       <img src="https://cdn.simpleicons.org/langchain/1C9C8C" height="40" alt="langchain" />
       <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="huggingface" />
       <br/><br/>
-      <kbd>&nbsp;LangGraph&nbsp;</kbd> &nbsp;<kbd>&nbsp;Multi-Agent Systems&nbsp;</kbd> &nbsp;<kbd>&nbsp;RAG&nbsp;</kbd> &nbsp;<kbd>&nbsp;LLM Tool Calling&nbsp;</kbd> &nbsp;<kbd>&nbsp;Groq API&nbsp;</kbd>
+      <img src="https://img.shields.io/badge/LangGraph-0F766E?style=for-the-badge" height="32" alt="LangGraph" />
+      <img src="https://img.shields.io/badge/Multi--Agent_Systems-6E40C9?style=for-the-badge" height="32" alt="Multi-Agent Systems" />
+      <img src="https://img.shields.io/badge/RAG-00A37A?style=for-the-badge" height="32" alt="RAG" />
+      <img src="https://img.shields.io/badge/LLM_Tool_Calling-8A2BE2?style=for-the-badge" height="32" alt="LLM Tool Calling" />
+      <img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge" height="32" alt="Groq API" />
     </td>
   </tr>
   <tr>
@@ -122,7 +126,7 @@ Web Developer Intern · ApexPlanet Software<br/>
     <td>
       <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&perline=10" />
       <br/><br/>
-      <kbd>&nbsp;pgvector&nbsp;</kbd>
+      <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="32" alt="pgvector" />
     </td>
   </tr>
   <tr>
@@ -246,13 +250,6 @@ notes:
 
 <img src="https://streak-stats.demolab.com/?user=Shivamsharma890&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Shivamsharma890/Shivamsharma890/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivamsharma890&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="100%" alt="Activity graph" />
 
 </div>
 
