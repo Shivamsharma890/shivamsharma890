@@ -5,15 +5,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shivam%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Full-Stack%20%C2%B7%20FastAPI%20%C2%B7%20React&descSize=18&descAlignY=60" width="100%" alt="Shivam Sharma banner"/>
 
 <a href="https://github.com/Shivamsharma890">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9A5&center=true&vCenter=true&width=700&lines=Building+AI-powered+full-stack+products;Multi-Agent+Systems+%C2%B7+RAG+%C2%B7+LLM+Apps;FastAPI+%2B+React+%2B+PostgreSQL+%2B+pgvector;B.Tech+CSE+%40+MITS+Gwalior" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=03BA90&center=true&vCenter=true&width=700&lines=Building+AI-powered+full-stack+products;Multi-Agent+Systems+%C2%B7+RAG+%C2%B7+LLM+Apps;FastAPI+%2B+React+%2B+PostgreSQL+%2B+pgvector;B.Tech+CSE+%40+MITS+Gwalior" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00D9A5?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/Shivamsharma890)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ss7614103@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-sharma-6496712b6)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivamsharma890)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-639423?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/Shivamsharma890)
+[![Email](https://img.shields.io/badge/EMAIL-CB5A03?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ss7614103@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0569DC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-sharma-6496712b6)
+[![GitHub](https://img.shields.io/badge/GITHUB-CA79D7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivamsharma890)
+[![Leetcode](https://img.shields.io/badge/LEETCODE-FFBE3A?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shivamsharma11/)
 
 <br/>
 
