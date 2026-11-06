@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-639423?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/Shivamsharma890)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-639423?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-psi-eight-otqg2iq7mh.vercel.app/)
 [![Email](https://img.shields.io/badge/EMAIL-CB5A03?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ss7614103@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0569DC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-sharma-6496712b6)
 [![GitHub](https://img.shields.io/badge/GITHUB-CA79D7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivamsharma890)
